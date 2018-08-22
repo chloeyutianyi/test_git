@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Full Name: Tommy Trojan
 department: Computer Science
+=======
+Full name: Tommy Trojan
+Department: Computer Science
+>>>>>>> dba0479c2d051573e346aa5fbd54ffb0fd88fb49
